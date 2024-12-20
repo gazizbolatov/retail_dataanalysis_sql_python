@@ -46,10 +46,9 @@ Through detailed exploration of both active and inactive orders, this analysis h
 
 ## Technologies Used
 **Python Libraries:**
+- Psycopg for SQL queries
 - Pandas for data preprocessing
 - Matplotlib and Seaborn for data visualization
-- Plotly for interactive visualizations
-- NumPy for numerical analysis
 
 ## Conclusion
 This analysis highlights **Austria**, **Germany**, and **USA** as key markets for revenue generation and customer engagement. **Brazil** and **Venezuela** emerge as promising growth opportunities, while underperforming markets like **Poland** and **Norway** require further analysis to determine their potential. By implementing these recommendations, businesses can refine their strategies and maximize profitability across regions.
